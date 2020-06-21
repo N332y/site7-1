@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site-Online</title>
+</head>
+<body style="background-color:powderblue;">
+    <h1>Corona Virus</h1>
+	<p>neste momento nos não temos vacina para esse virus <br>
+	então se você pode fique em casa e se proteja.</p>
+	<img src="corona.jpg" width="500" height="600">
+	<p style="color:red;">vamos tomar cuidado, lavar as mãos <br>
+	e usar mascara sempre que sair de casa</p>
 
+</body>
+</html>
